@@ -1,0 +1,35 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "name": "Bagpacks",
+      "src": "assets/shopByCategoryImages/bagpacks.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Bags",
+      "src": "assets/shopByCategoryImages/bags.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Luggage",
+      "src": "assets/shopByCategoryImages/luggage.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Carry-On",
+      "src": "assets/shopByCategoryImages/carry-on.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Duffels",
+      "src": "assets/shopByCategoryImages/duffels.jpeg"
+    },
+
+    {
+      "id": 6,
+      "name": "TUMI+",
+      "src": "assets/shopByCategoryImages/tumi+.jpeg"
+    }
+  ]
+}
