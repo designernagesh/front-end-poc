@@ -4,7 +4,7 @@
   padding: 0;
   margin: 0;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   text-decoration: none;
   border: none;
   outline: none;
@@ -49,7 +49,7 @@ body {
   top: 50%;
   right: 100px;
   -webkit-transform: translate(0, -50%);
-          transform: translate(0, -50%);
+  transform: translate(0, -50%);
 }
 
 .banner .copyBlock h1 {
@@ -144,7 +144,7 @@ body {
     top: 20px;
     right: unset;
     -webkit-transform: unset;
-            transform: unset;
+    transform: unset;
     background-color: transparent;
   }
   .banner .copyBlock h1 {
